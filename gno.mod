@@ -1,0 +1,1 @@
+module gno.land/r/g1fhjafn467h28wvh7lvd7xek0h8nds6u0hugzga/bountyboard
